@@ -2,7 +2,7 @@
 
 ## 代码结构
 
-![image-20220228141551762](Cloud Function.assets/image-20220228141551762-16460289527733.png) 
+![image-20220228141551762](./CloudFunction.assets/image-20220228141551762-16460289527733.png) 
 
 ## 文件
 
