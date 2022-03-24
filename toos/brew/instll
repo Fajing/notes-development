@@ -17,3 +17,9 @@
 3
 4
 注：上面内容中199.232.68.133是raw.githubusercontent.com所在的服务器IP（通过 https://www.ipaddress.com/ 获知）。
+
+
+可以使用国内源啦  再也不痛苦啦
+
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+
